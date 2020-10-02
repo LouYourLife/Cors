@@ -4,6 +4,14 @@
 
 Links:
 
-http://vn41.surge.sh/
+Frontend - http://vn41.surge.sh/
 
-https://vn41.dk/devops-starter/
+Backend - https://vn41.dk/devops-starter/
+
+## Europa map
+
+Link til github:
+
+https://github.com/LouYourLife/EuropeMapExam
+
+Ikke deployed.
